@@ -100,18 +100,7 @@ def modify():
             if [i,j] in b1:
                 l[i][j]=l[i][j]+mv
     step3(l)
-            
 
-            
-        
-        
-    
-    
-        
-        
-        
-    
-    
 def step1(l):
     print("step:1:")
     print("\n")
